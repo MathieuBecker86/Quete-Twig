@@ -1,0 +1,12 @@
+{
+    "name": "mathieu/quete-twig",
+    "authors": [
+        {
+            "name": "Becker",
+            "email": "mathieubecker86@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
